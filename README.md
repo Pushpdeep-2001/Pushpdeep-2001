@@ -2,7 +2,8 @@
 - 👀 I’m interested in Sotware Development 
 - 🌱 I’m currently learning Data Structure Algorithm and dev stuff
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me ...
+- 📫 LinkedIN: https://www.linkedin.com/in/pushpdeep-singh-41810b200/
+  
 
 <!---
 Pushpdeep-2001/Pushpdeep-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
